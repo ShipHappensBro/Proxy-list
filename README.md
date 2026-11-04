@@ -13,6 +13,7 @@ ProxyHub automatically collects, checks, and publishes publicly available proxie
 | SOCKS5 | [socks5.txt](https://raw.githubusercontent.com/ShipHappensBro/ProxyHub/refs/heads/main/socks5.txt) |
 | JSON | [proxies.json](https://raw.githubusercontent.com/ShipHappensBro/ProxyHub/refs/heads/main/proxies.json) |
 | CSV | [proxies.csv](https://raw.githubusercontent.com/ShipHappensBro/ProxyHub/refs/heads/main/proxies.csv) |
+| TXT | [proxies.txt](https://raw.githubusercontent.com/ShipHappensBro/Proxy-list/refs/heads/main/proxies.txt) |
 
 ## 🔌 Supported protocols
 
