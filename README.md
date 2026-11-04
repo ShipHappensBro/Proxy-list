@@ -41,7 +41,7 @@ Proxy lists are available in multiple formats for easy integration with differen
 
 ## 🔄 Updates
 
-ProxyHub automatically refreshes its proxy lists **every hour**, keeping the published data regularly updated.
+ProxyHub automatically refreshes its proxy lists **every 15 minutes**, keeping the published data regularly updated.
 
 ## ⚠️ Disclaimer
 
