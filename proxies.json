@@ -1,120 +1,144 @@
 [
     {
-        "id": 244477,
-        "address": "94.247.244.120",
-        "checked_at": "2026-11-04T17:56:23.003739Z",
-        "port": 3128,
-        "type": "http",
-        "country": "RU"
-    },
-    {
-        "id": 713675,
-        "address": "162.4.225.37",
-        "checked_at": "2026-11-04T17:55:56.003513Z",
-        "port": 8083,
-        "type": "http",
+        "id": 745469,
+        "address": "103.102.14.89",
+        "checked_at": "2026-11-04T18:14:29.836667Z",
+        "port": 8082,
+        "type": "https",
         "country": "ID"
     },
     {
-        "id": 755871,
-        "address": "45.74.31.42",
-        "checked_at": "2026-11-04T17:55:48.767108Z",
-        "port": 5657,
-        "type": "socks5",
-        "country": "US"
+        "id": 758849,
+        "address": "147.161.247.9",
+        "checked_at": "2026-11-04T18:13:28.003357Z",
+        "port": 11121,
+        "type": "http",
+        "country": "CH"
     },
     {
-        "id": 661404,
-        "address": "107.155.87.251",
-        "checked_at": "2026-11-04T17:55:42.552475Z",
-        "port": 3128,
+        "id": 195,
+        "address": "83.143.24.29",
+        "checked_at": "2026-11-04T18:13:09.289463Z",
+        "port": 5678,
+        "type": "socks4",
+        "country": "BW"
+    },
+    {
+        "id": 572250,
+        "address": "139.198.113.42",
+        "checked_at": "2026-11-04T18:11:49.551076Z",
+        "port": 10023,
         "type": "https",
-        "country": "US"
+        "country": "CN"
+    },
+    {
+        "id": 758845,
+        "address": "103.155.130.94",
+        "checked_at": "2026-11-04T18:11:39.003752Z",
+        "port": 8080,
+        "type": "http",
+        "country": "IN"
+    },
+    {
+        "id": 426544,
+        "address": "103.181.255.69",
+        "checked_at": "2026-11-04T18:11:30.924531Z",
+        "port": 1111,
+        "type": "https",
+        "country": "ID"
     },
     {
         "id": 234152,
         "address": "72.195.34.60",
-        "checked_at": "2026-11-04T17:55:42.305712Z",
+        "checked_at": "2026-11-04T18:11:22.676930Z",
         "port": 27391,
         "type": "https",
         "country": "US"
     },
     {
+        "id": 648000,
+        "address": "123.200.8.170",
+        "checked_at": "2026-11-04T18:11:16.085532Z",
+        "port": 10000,
+        "type": "https",
+        "country": "BD"
+    },
+    {
+        "id": 661207,
+        "address": "157.20.239.237",
+        "checked_at": "2026-11-04T18:11:16.001927Z",
+        "port": 9090,
+        "type": "http",
+        "country": "ID"
+    },
+    {
+        "id": 495949,
+        "address": "190.188.131.87",
+        "checked_at": "2026-11-04T18:11:13.002529Z",
+        "port": 8080,
+        "type": "http",
+        "country": "AR"
+    },
+    {
         "id": 197921,
         "address": "192.111.135.18",
-        "checked_at": "2026-11-04T17:55:23.706210Z",
+        "checked_at": "2026-11-04T18:10:53.457947Z",
         "port": 18301,
-        "type": "https",
+        "type": "socks4",
         "country": "US"
     },
     {
-        "id": 268569,
-        "address": "89.40.143.28",
-        "checked_at": "2026-11-04T17:55:17.979055Z",
-        "port": 7788,
-        "type": "https",
-        "country": "IT"
-    },
-    {
-        "id": 506646,
-        "address": "103.157.58.49",
-        "checked_at": "2026-11-04T17:55:15.080030Z",
-        "port": 8080,
+        "id": 603019,
+        "address": "103.171.240.170",
+        "checked_at": "2026-11-04T18:10:43.659901Z",
+        "port": 8090,
         "type": "https",
         "country": "ID"
     },
     {
-        "id": 506638,
-        "address": "119.93.170.95",
-        "checked_at": "2026-11-04T17:55:02.419202Z",
-        "port": 8085,
+        "id": 504919,
+        "address": "160.25.223.14",
+        "checked_at": "2026-11-04T18:10:42.665238Z",
+        "port": 8181,
         "type": "https",
-        "country": "PH"
+        "country": "ID"
+    },
+    {
+        "id": 635722,
+        "address": "220.158.232.118",
+        "checked_at": "2026-11-04T18:10:37.843702Z",
+        "port": 1080,
+        "type": "https",
+        "country": "KH"
     },
     {
         "id": 239022,
         "address": "192.111.130.2",
-        "checked_at": "2026-11-04T17:54:46.158796Z",
+        "checked_at": "2026-11-04T18:10:31.395615Z",
         "port": 4145,
         "type": "https",
         "country": "US"
     },
     {
-        "id": 200369,
-        "address": "68.71.247.130",
-        "checked_at": "2026-11-04T17:54:45.160993Z",
-        "port": 4145,
-        "type": "https",
-        "country": "US"
-    },
-    {
-        "id": 674554,
-        "address": "212.200.223.89",
-        "checked_at": "2026-11-04T17:54:35.068850Z",
-        "port": 8080,
-        "type": "https",
-        "country": "RS"
-    },
-    {
-        "id": 177047,
-        "address": "192.111.137.34",
-        "checked_at": "2026-11-04T17:54:33.503365Z",
-        "port": 18765,
-        "type": "https",
-        "country": "US"
-    },
-    {
-        "id": 656450,
-        "address": "13.140.170.132",
-        "checked_at": "2026-11-04T17:54:27.001942Z",
+        "id": 654960,
+        "address": "37.220.83.34",
+        "checked_at": "2026-11-04T18:10:14.753796Z",
         "port": 3128,
+        "type": "https",
+        "country": "DE"
+    },
+    {
+        "id": 173449,
+        "address": "157.66.16.38",
+        "checked_at": "2026-11-04T18:10:11.003754Z",
+        "port": 8070,
         "type": "http",
-        "country": "FR"
+        "country": "ID"
     },
     {
         "id": 181410,
         "address": "184.178.172.28",
-        "checked_at": "2026-11-04T17:54:25.565693Z",
+        "checked_at": "2026-11-04T18:10:10.687160Z",
         "port": 15294,
         "type": "https",
         "country": "US"
@@ -122,135 +146,159 @@
     {
         "id": 211887,
         "address": "72.195.34.35",
-        "checked_at": "2026-11-04T17:54:25.544249Z",
+        "checked_at": "2026-11-04T18:10:09.972302Z",
         "port": 27360,
         "type": "https",
         "country": "US"
     },
     {
-        "id": 654960,
-        "address": "37.220.83.34",
-        "checked_at": "2026-11-04T17:54:19.004989Z",
+        "id": 274398,
+        "address": "213.3.34.39",
+        "checked_at": "2026-11-04T18:10:09.028148Z",
+        "port": 443,
+        "type": "https",
+        "country": "CH"
+    },
+    {
+        "id": 206958,
+        "address": "103.137.85.29",
+        "checked_at": "2026-11-04T18:10:02.307610Z",
+        "port": 84,
+        "type": "https",
+        "country": "IN"
+    },
+    {
+        "id": 656450,
+        "address": "13.140.170.132",
+        "checked_at": "2026-11-04T18:10:01.839370Z",
         "port": 3128,
         "type": "https",
-        "country": "DE"
+        "country": "FR"
     },
     {
         "id": 154357,
         "address": "67.201.39.14",
-        "checked_at": "2026-11-04T17:54:08.230439Z",
+        "checked_at": "2026-11-04T18:09:45.603546Z",
         "port": 4145,
         "type": "https",
         "country": "US"
     },
     {
-        "id": 503814,
-        "address": "103.162.54.170",
-        "checked_at": "2026-11-04T17:53:35.580359Z",
-        "port": 8080,
-        "type": "https",
-        "country": "ID"
-    },
-    {
-        "id": 193886,
-        "address": "184.181.178.33",
-        "checked_at": "2026-11-04T17:53:30.778804Z",
-        "port": 4145,
-        "type": "https",
-        "country": "US"
-    },
-    {
-        "id": 486777,
-        "address": "74.242.169.16",
-        "checked_at": "2026-11-04T17:53:27.002409Z",
+        "id": 508579,
+        "address": "89.111.153.21",
+        "checked_at": "2026-11-04T18:09:31.134245Z",
         "port": 3128,
-        "type": "http",
-        "country": "CH"
+        "type": "https",
+        "country": "RU"
     },
     {
-        "id": 756864,
-        "address": "203.145.218.204",
-        "checked_at": "2026-11-04T17:53:02.436244Z",
+        "id": 268569,
+        "address": "89.40.143.28",
+        "checked_at": "2026-11-04T18:09:27.315828Z",
+        "port": 7788,
+        "type": "https",
+        "country": "IT"
+    },
+    {
+        "id": 485006,
+        "address": "122.117.203.252",
+        "checked_at": "2026-11-04T18:09:19.543920Z",
         "port": 3128,
         "type": "https",
         "country": "TW"
     },
     {
-        "id": 604624,
-        "address": "77.223.107.108",
-        "checked_at": "2026-11-04T17:52:59.156064Z",
+        "id": 486777,
+        "address": "74.242.169.16",
+        "checked_at": "2026-11-04T18:09:18.260371Z",
         "port": 3128,
         "type": "https",
-        "country": "RU"
+        "country": "CH"
     },
     {
-        "id": 172101,
-        "address": "74.119.144.60",
-        "checked_at": "2026-11-04T17:52:54.506468Z",
-        "port": 4145,
+        "id": 503814,
+        "address": "103.162.54.170",
+        "checked_at": "2026-11-04T18:09:03.111707Z",
+        "port": 8080,
         "type": "https",
-        "country": "US"
-    },
-    {
-        "id": 641293,
-        "address": "190.121.151.16",
-        "checked_at": "2026-11-04T17:52:52.002931Z",
-        "port": 999,
-        "type": "http",
-        "country": "CO"
-    },
-    {
-        "id": 508579,
-        "address": "89.111.153.21",
-        "checked_at": "2026-11-04T17:52:43.822902Z",
-        "port": 3128,
-        "type": "https",
-        "country": "RU"
-    },
-    {
-        "id": 166650,
-        "address": "104.37.135.145",
-        "checked_at": "2026-11-04T17:52:42.103237Z",
-        "port": 4145,
-        "type": "https",
-        "country": "US"
-    },
-    {
-        "id": 215284,
-        "address": "98.178.72.30",
-        "checked_at": "2026-11-04T17:52:40.089435Z",
-        "port": 4145,
-        "type": "https",
-        "country": "US"
+        "country": "ID"
     },
     {
         "id": 660458,
         "address": "62.133.60.5",
-        "checked_at": "2026-11-04T17:52:33.307667Z",
+        "checked_at": "2026-11-04T18:08:36.005078Z",
         "port": 3128,
-        "type": "https",
+        "type": "http",
         "country": "DE"
+    },
+    {
+        "id": 674554,
+        "address": "212.200.223.89",
+        "checked_at": "2026-11-04T18:08:34.004453Z",
+        "port": 8080,
+        "type": "http",
+        "country": "RS"
+    },
+    {
+        "id": 641750,
+        "address": "154.18.196.153",
+        "checked_at": "2026-11-04T18:08:12.002423Z",
+        "port": 8083,
+        "type": "http",
+        "country": "PH"
     },
     {
         "id": 745471,
         "address": "4.144.146.21",
-        "checked_at": "2026-11-04T17:52:32.794651Z",
+        "checked_at": "2026-11-04T18:07:59.933641Z",
         "port": 80,
         "type": "https",
         "country": "SG"
     },
     {
-        "id": 158406,
-        "address": "98.181.137.80",
-        "checked_at": "2026-11-04T17:52:25.293977Z",
+        "id": 215284,
+        "address": "98.178.72.30",
+        "checked_at": "2026-11-04T18:07:50.935767Z",
         "port": 4145,
-        "type": "socks5",
+        "type": "https",
         "country": "US"
+    },
+    {
+        "id": 245165,
+        "address": "190.12.150.244",
+        "checked_at": "2026-11-04T18:07:44.591614Z",
+        "port": 999,
+        "type": "https",
+        "country": "EC"
+    },
+    {
+        "id": 604624,
+        "address": "77.223.107.108",
+        "checked_at": "2026-11-04T18:07:39.118906Z",
+        "port": 3128,
+        "type": "https",
+        "country": "RU"
+    },
+    {
+        "id": 224574,
+        "address": "216.68.128.121",
+        "checked_at": "2026-11-04T18:07:38.071647Z",
+        "port": 4145,
+        "type": "https",
+        "country": "US"
+    },
+    {
+        "id": 195065,
+        "address": "187.216.141.46",
+        "checked_at": "2026-11-04T18:07:32.479732Z",
+        "port": 3128,
+        "type": "http",
+        "country": "MX"
     },
     {
         "id": 184737,
         "address": "184.181.217.194",
-        "checked_at": "2026-11-04T17:51:56.558837Z",
+        "checked_at": "2026-11-04T18:07:23.831528Z",
         "port": 4145,
         "type": "https",
         "country": "US"
@@ -258,87 +306,71 @@
     {
         "id": 661408,
         "address": "42.96.19.211",
-        "checked_at": "2026-11-04T17:51:29.938656Z",
+        "checked_at": "2026-11-04T18:07:08.329504Z",
         "port": 1314,
         "type": "https",
         "country": "VN"
     },
     {
-        "id": 661966,
-        "address": "187.33.151.110",
-        "checked_at": "2026-11-04T17:51:28.580427Z",
-        "port": 3128,
-        "type": "https",
-        "country": "ES"
-    },
-    {
-        "id": 658363,
-        "address": "34.162.25.75",
-        "checked_at": "2026-11-04T17:51:07.996806Z",
-        "port": 443,
-        "type": "https",
-        "country": "US"
-    },
-    {
-        "id": 758763,
-        "address": "45.74.31.41",
-        "checked_at": "2026-11-04T17:51:01.494816Z",
-        "port": 9053,
-        "type": "socks5",
-        "country": "US"
-    },
-    {
-        "id": 221863,
-        "address": "192.111.129.145",
-        "checked_at": "2026-11-04T17:51:00.947621Z",
-        "port": 16894,
-        "type": "https",
-        "country": "US"
-    },
-    {
-        "id": 653021,
-        "address": "103.189.97.113",
-        "checked_at": "2026-11-04T17:50:49.004434Z",
-        "port": 8087,
-        "type": "http",
-        "country": "ID"
-    },
-    {
-        "id": 638477,
-        "address": "176.111.37.5",
-        "checked_at": "2026-11-04T17:50:48.002567Z",
-        "port": 39811,
-        "type": "http",
-        "country": "HK"
-    },
-    {
-        "id": 662752,
-        "address": "152.231.27.124",
-        "checked_at": "2026-11-04T17:50:40.623991Z",
-        "port": 999,
-        "type": "https",
-        "country": "CO"
-    },
-    {
-        "id": 504622,
-        "address": "173.212.222.244",
-        "checked_at": "2026-11-04T17:50:38.561019Z",
-        "port": 8888,
-        "type": "https",
-        "country": "FR"
-    },
-    {
-        "id": 171457,
-        "address": "98.188.47.132",
-        "checked_at": "2026-11-04T17:50:33.656107Z",
+        "id": 158406,
+        "address": "98.181.137.80",
+        "checked_at": "2026-11-04T18:06:50.937663Z",
         "port": 4145,
         "type": "https",
         "country": "US"
     },
     {
-        "id": 252509,
-        "address": "98.191.0.37",
-        "checked_at": "2026-11-04T17:50:17.978266Z",
+        "id": 658363,
+        "address": "34.162.25.75",
+        "checked_at": "2026-11-04T18:06:46.639619Z",
+        "port": 443,
+        "type": "https",
+        "country": "US"
+    },
+    {
+        "id": 254338,
+        "address": "70.166.65.160",
+        "checked_at": "2026-11-04T18:06:34.749092Z",
+        "port": 4145,
+        "type": "https",
+        "country": "US"
+    },
+    {
+        "id": 221863,
+        "address": "192.111.129.145",
+        "checked_at": "2026-11-04T18:06:15.779583Z",
+        "port": 16894,
+        "type": "https",
+        "country": "US"
+    },
+    {
+        "id": 504622,
+        "address": "173.212.222.244",
+        "checked_at": "2026-11-04T18:06:03.043040Z",
+        "port": 8888,
+        "type": "https",
+        "country": "FR"
+    },
+    {
+        "id": 342797,
+        "address": "103.174.152.222",
+        "checked_at": "2026-11-04T18:05:56.435129Z",
+        "port": 3128,
+        "type": "https",
+        "country": "BD"
+    },
+    {
+        "id": 265385,
+        "address": "177.247.249.5",
+        "checked_at": "2026-11-04T18:05:53.718874Z",
+        "port": 3128,
+        "type": "https",
+        "country": "MX"
+    },
+    {
+        "id": 171457,
+        "address": "98.188.47.132",
+        "checked_at": "2026-11-04T18:05:44.259907Z",
         "port": 4145,
         "type": "https",
         "country": "US"
@@ -346,15 +378,95 @@
     {
         "id": 139198,
         "address": "80.78.78.106",
-        "checked_at": "2026-11-04T17:50:16.039405Z",
+        "checked_at": "2026-11-04T18:05:41.845507Z",
         "port": 65530,
         "type": "socks4",
         "country": "AL"
     },
     {
+        "id": 461930,
+        "address": "201.144.25.226",
+        "checked_at": "2026-11-04T18:05:34.912970Z",
+        "port": 3128,
+        "type": "https",
+        "country": "MX"
+    },
+    {
+        "id": 590990,
+        "address": "5.129.227.157",
+        "checked_at": "2026-11-04T18:05:27.177040Z",
+        "port": 3128,
+        "type": "https",
+        "country": "NL"
+    },
+    {
+        "id": 212900,
+        "address": "199.116.114.11",
+        "checked_at": "2026-11-04T18:05:23.413708Z",
+        "port": 4145,
+        "type": "socks5",
+        "country": "US"
+    },
+    {
+        "id": 190373,
+        "address": "72.37.216.68",
+        "checked_at": "2026-11-04T18:05:22.930963Z",
+        "port": 4145,
+        "type": "socks5",
+        "country": "US"
+    },
+    {
+        "id": 252509,
+        "address": "98.191.0.37",
+        "checked_at": "2026-11-04T18:05:20.537184Z",
+        "port": 4145,
+        "type": "https",
+        "country": "US"
+    },
+    {
         "id": 190728,
         "address": "72.195.101.99",
-        "checked_at": "2026-11-04T17:50:03.744214Z",
+        "checked_at": "2026-11-04T18:05:16.703017Z",
+        "port": 4145,
+        "type": "https",
+        "country": "US"
+    },
+    {
+        "id": 178176,
+        "address": "192.111.129.150",
+        "checked_at": "2026-11-04T18:05:16.399688Z",
+        "port": 4145,
+        "type": "https",
+        "country": "US"
+    },
+    {
+        "id": 589675,
+        "address": "66.186.199.33",
+        "checked_at": "2026-11-04T18:05:04.002464Z",
+        "port": 8080,
+        "type": "http",
+        "country": "AL"
+    },
+    {
+        "id": 191004,
+        "address": "72.195.34.58",
+        "checked_at": "2026-11-04T18:05:02.266026Z",
+        "port": 4145,
+        "type": "https",
+        "country": "US"
+    },
+    {
+        "id": 746208,
+        "address": "45.74.31.41",
+        "checked_at": "2026-11-04T18:05:00.258547Z",
+        "port": 4381,
+        "type": "socks5",
+        "country": "US"
+    },
+    {
+        "id": 237485,
+        "address": "142.54.236.97",
+        "checked_at": "2026-11-04T18:04:57.190186Z",
         "port": 4145,
         "type": "https",
         "country": "US"
@@ -362,97 +474,105 @@
     {
         "id": 135722,
         "address": "198.8.94.174",
-        "checked_at": "2026-11-04T17:49:54.455283Z",
+        "checked_at": "2026-11-04T18:04:56.224005Z",
         "port": 39078,
         "type": "https",
         "country": "CA"
     },
     {
-        "id": 191004,
-        "address": "72.195.34.58",
-        "checked_at": "2026-11-04T17:49:51.570289Z",
+        "id": 161335,
+        "address": "142.54.232.6",
+        "checked_at": "2026-11-04T18:04:53.678528Z",
         "port": 4145,
-        "type": "https",
+        "type": "socks5",
         "country": "US"
     },
     {
         "id": 206078,
         "address": "192.111.137.37",
-        "checked_at": "2026-11-04T17:49:45.806147Z",
+        "checked_at": "2026-11-04T18:04:48.368758Z",
         "port": 18762,
         "type": "https",
         "country": "US"
     },
     {
-        "id": 237485,
-        "address": "142.54.236.97",
-        "checked_at": "2026-11-04T17:49:40.279848Z",
-        "port": 4145,
-        "type": "socks4",
-        "country": "US"
-    },
-    {
-        "id": 589675,
-        "address": "66.186.199.33",
-        "checked_at": "2026-11-04T17:49:35.163740Z",
-        "port": 8080,
+        "id": 638477,
+        "address": "176.111.37.5",
+        "checked_at": "2026-11-04T18:04:39.877874Z",
+        "port": 39811,
         "type": "https",
-        "country": "AL"
+        "country": "HK"
     },
     {
         "id": 184248,
         "address": "72.206.74.126",
-        "checked_at": "2026-11-04T17:49:28.505457Z",
+        "checked_at": "2026-11-04T18:04:39.392227Z",
         "port": 4145,
         "type": "https",
         "country": "US"
     },
     {
-        "id": 461930,
-        "address": "201.144.25.226",
-        "checked_at": "2026-11-04T17:49:15.400083Z",
-        "port": 3128,
+        "id": 172120,
+        "address": "68.71.241.33",
+        "checked_at": "2026-11-04T18:04:18.127282Z",
+        "port": 4145,
         "type": "https",
-        "country": "MX"
+        "country": "US"
     },
     {
-        "id": 636909,
-        "address": "103.153.247.110",
-        "checked_at": "2026-11-04T17:49:04.003124Z",
-        "port": 8080,
+        "id": 235149,
+        "address": "68.71.245.206",
+        "checked_at": "2026-11-04T18:04:07.745896Z",
+        "port": 4145,
+        "type": "https",
+        "country": "US"
+    },
+    {
+        "id": 732483,
+        "address": "9.154.240.122",
+        "checked_at": "2026-11-04T18:04:00.002491Z",
+        "port": 8085,
         "type": "http",
         "country": "ID"
     },
     {
         "id": 247071,
         "address": "184.170.248.5",
-        "checked_at": "2026-11-04T17:48:59.717133Z",
+        "checked_at": "2026-11-04T18:03:57.297562Z",
         "port": 4145,
         "type": "https",
         "country": "US"
     },
     {
-        "id": 758755,
-        "address": "45.74.31.46",
-        "checked_at": "2026-11-04T17:48:35.963259Z",
-        "port": 5409,
+        "id": 164839,
+        "address": "104.200.152.30",
+        "checked_at": "2026-11-04T18:03:54.952342Z",
+        "port": 4145,
         "type": "https",
         "country": "US"
     },
     {
-        "id": 506723,
-        "address": "113.192.30.43",
-        "checked_at": "2026-11-04T17:48:35.485984Z",
-        "port": 8090,
+        "id": 244652,
+        "address": "199.102.105.242",
+        "checked_at": "2026-11-04T18:03:44.381315Z",
+        "port": 4145,
         "type": "https",
-        "country": "ID"
+        "country": "US"
     },
     {
         "id": 157526,
         "address": "184.178.172.11",
-        "checked_at": "2026-11-04T17:48:26.297454Z",
+        "checked_at": "2026-11-04T18:03:21.855485Z",
         "port": 4145,
         "type": "https",
         "country": "US"
+    },
+    {
+        "id": 300980,
+        "address": "4.233.138.204",
+        "checked_at": "2026-11-04T18:03:04.104786Z",
+        "port": 8888,
+        "type": "https",
+        "country": "FR"
     }
 ]
