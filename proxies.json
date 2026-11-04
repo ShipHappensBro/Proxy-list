@@ -1,5 +1,13 @@
 [
     {
+        "id": 757379,
+        "address": "41.190.157.162",
+        "checked_at": "2026-11-04T11:07:09.526630Z",
+        "port": 3128,
+        "type": "https",
+        "country": "UG"
+    },
+    {
         "id": 177047,
         "address": "192.111.137.34",
         "checked_at": "2026-11-04T11:06:56.774436Z",
@@ -352,25 +360,9 @@
         "country": "US"
     },
     {
-        "id": 757379,
-        "address": "41.190.157.162",
-        "checked_at": "2026-11-04T10:54:50.167037Z",
-        "port": 3128,
-        "type": "https",
-        "country": "UG"
-    },
-    {
         "id": 239022,
         "address": "192.111.130.2",
         "checked_at": "2026-11-04T10:54:35.527488Z",
-        "port": 4145,
-        "type": "https",
-        "country": "US"
-    },
-    {
-        "id": 200369,
-        "address": "68.71.247.130",
-        "checked_at": "2026-11-04T10:54:32.939940Z",
         "port": 4145,
         "type": "https",
         "country": "US"
