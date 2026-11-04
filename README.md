@@ -2,7 +2,7 @@
 
 **A regularly updated collection of publicly available proxies.**
 
-ProxyHub automatically collects, checks, and publishes publicly available proxies every hour, providing country information for each proxy and offering proxy lists in multiple protocols and formats.
+ProxyHub automatically collects, checks, and publishes publicly available proxies every 15 minutes, providing country information for each proxy and offering proxy lists in multiple protocols and formats.
 
 ## 📥 Download proxy lists
 
