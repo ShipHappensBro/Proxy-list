@@ -2,7 +2,7 @@
 
 **A regularly updated collection of anonymous, working public proxies.**
 
-ProxyHub automatically collects, checks, and publishes publicly available proxies.
+ProxyHub automatically collects, checks, and publishes publicly available proxies every hour.
 
 ## ⬇️ Download proxy lists ⬇️
 
