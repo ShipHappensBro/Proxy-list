@@ -1,5 +1,50 @@
 [
     {
+        "id": 485006,
+        "ip": "122.117.203.252",
+        "port": 3128,
+        "type": "http",
+        "country": "TW",
+        "checked_at": "2026-11-06T17:54:14.148279Z",
+        "https": true
+    },
+    {
+        "id": 658363,
+        "ip": "34.162.25.75",
+        "port": 443,
+        "type": "http",
+        "country": "US",
+        "checked_at": "2026-11-06T17:53:56.180284Z",
+        "https": true
+    },
+    {
+        "id": 661177,
+        "ip": "67.225.241.201",
+        "port": 3128,
+        "type": "http",
+        "country": "US",
+        "checked_at": "2026-11-06T17:53:14.716398Z",
+        "https": true
+    },
+    {
+        "id": 265385,
+        "ip": "177.247.249.5",
+        "port": 3128,
+        "type": "http",
+        "country": "MX",
+        "checked_at": "2026-11-06T17:51:15.267322Z",
+        "https": false
+    },
+    {
+        "id": 641293,
+        "ip": "190.121.151.16",
+        "port": 999,
+        "type": "http",
+        "country": "CO",
+        "checked_at": "2026-11-06T17:51:13.267110Z",
+        "https": false
+    },
+    {
         "id": 635722,
         "ip": "220.158.232.118",
         "port": 1080,
@@ -72,15 +117,6 @@
         "https": true
     },
     {
-        "id": 485006,
-        "ip": "122.117.203.252",
-        "port": 3128,
-        "type": "http",
-        "country": "TW",
-        "checked_at": "2026-11-06T17:47:31.266557Z",
-        "https": false
-    },
-    {
         "id": 172583,
         "ip": "8.213.151.128",
         "port": 3128,
@@ -88,23 +124,5 @@
         "country": "KR",
         "checked_at": "2026-11-06T17:47:24.397189Z",
         "https": true
-    },
-    {
-        "id": 641595,
-        "ip": "47.80.26.236",
-        "port": 8080,
-        "type": "http",
-        "country": "KR",
-        "checked_at": "2026-11-06T17:47:22.275359Z",
-        "https": false
-    },
-    {
-        "id": 641293,
-        "ip": "190.121.151.16",
-        "port": 999,
-        "type": "http",
-        "country": "CO",
-        "checked_at": "2026-11-06T17:40:27.433942Z",
-        "https": false
     }
 ]
