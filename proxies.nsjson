@@ -1,10 +1,4 @@
-{"id": 485006, "ip": "122.117.203.252", "port": 3128, "type": "http", "country": "TW", "checked_at": "2026-11-06T19:14:51.946619Z", "https": true}
-{"id": 172583, "ip": "8.213.151.128", "port": 3128, "type": "http", "country": "KR", "checked_at": "2026-11-06T19:12:24.477874Z", "https": true}
-{"id": 494933, "ip": "124.248.177.44", "port": 1080, "type": "socks5", "country": "KH", "checked_at": "2026-11-06T19:10:31.148745Z", "https": false}
-{"id": 503814, "ip": "103.162.54.170", "port": 8080, "type": "http", "country": "ID", "checked_at": "2026-11-06T19:10:07.916256Z", "https": true}
-{"id": 636909, "ip": "103.153.247.110", "port": 8080, "type": "http", "country": "ID", "checked_at": "2026-11-06T19:09:39.266964Z", "https": false}
-{"id": 177980, "ip": "51.159.66.158", "port": 3128, "type": "http", "country": "FR", "checked_at": "2026-11-06T19:08:36.267612Z", "https": false}
-{"id": 486777, "ip": "74.242.169.16", "port": 3128, "type": "http", "country": "CH", "checked_at": "2026-11-06T19:06:50.765844Z", "https": true}
-{"id": 461930, "ip": "201.144.25.226", "port": 3128, "type": "http", "country": "MX", "checked_at": "2026-11-06T19:06:15.267511Z", "https": false}
-{"id": 634975, "ip": "43.255.159.94", "port": 3129, "type": "http", "country": "HK", "checked_at": "2026-11-06T19:03:53.266266Z", "https": false}
-{"id": 641293, "ip": "190.121.151.16", "port": 999, "type": "http", "country": "CO", "checked_at": "2026-11-06T19:02:19.267936Z", "https": false}
+{"id": 300980, "ip": "4.233.138.204", "port": 8888, "type": "http", "country": "FR", "checked_at": "2026-11-06T19:30:05.151183Z", "https": true}
+{"id": 133676, "ip": "88.245.138.87", "port": 1080, "type": "socks4", "country": "TR", "checked_at": "2026-11-06T19:29:43.033587Z", "https": false}
+{"id": 245165, "ip": "190.12.150.244", "port": 999, "type": "http", "country": "EC", "checked_at": "2026-11-06T19:27:28.658592Z", "https": true}
+{"id": 172583, "ip": "8.213.151.128", "port": 3128, "type": "http", "country": "KR", "checked_at": "2026-11-06T19:24:49.942555Z", "https": false}
