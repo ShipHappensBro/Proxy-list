@@ -1,3 +1,5 @@
+{"id": 486777, "ip": "74.242.169.16", "port": 3128, "type": "http", "country": "CH", "checked_at": "2026-11-06T18:01:52.839707Z", "https": true}
+{"id": 461930, "ip": "201.144.25.226", "port": 3128, "type": "http", "country": "MX", "checked_at": "2026-11-06T18:01:18.266464Z", "https": false}
 {"id": 274398, "ip": "213.3.34.39", "port": 443, "type": "http", "country": "CH", "checked_at": "2026-11-06T18:00:07.269242Z", "https": false}
 {"id": 245165, "ip": "190.12.150.244", "port": 999, "type": "http", "country": "EC", "checked_at": "2026-11-06T18:00:03.802184Z", "https": true}
 {"id": 655634, "ip": "103.39.51.157", "port": 1080, "type": "http", "country": "ID", "checked_at": "2026-11-06T17:59:54.926562Z", "https": true}
