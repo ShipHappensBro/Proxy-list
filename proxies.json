@@ -124,14 +124,5 @@
         "country": "US",
         "checked_at": "2026-11-07T07:52:41.139604Z",
         "https": true
-    },
-    {
-        "id": 461930,
-        "ip": "201.144.25.226",
-        "port": 3128,
-        "type": "http",
-        "country": "MX",
-        "checked_at": "2026-11-07T07:51:08.427478Z",
-        "https": false
     }
 ]

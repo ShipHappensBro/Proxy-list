@@ -12,4 +12,3 @@
 {"id": 172583, "ip": "8.213.151.128", "port": 3128, "type": "http", "country": "KR", "checked_at": "2026-11-07T07:54:13.015449Z", "https": true}
 {"id": 653021, "ip": "103.189.97.113", "port": 8087, "type": "http", "country": "ID", "checked_at": "2026-11-07T07:53:34.040699Z", "https": true}
 {"id": 238184, "ip": "174.75.211.193", "port": 4145, "type": "socks5", "country": "US", "checked_at": "2026-11-07T07:52:41.139604Z", "https": true}
-{"id": 461930, "ip": "201.144.25.226", "port": 3128, "type": "http", "country": "MX", "checked_at": "2026-11-07T07:51:08.427478Z", "https": false}
