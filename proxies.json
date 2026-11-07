@@ -16,32 +16,5 @@
         "country": "US",
         "checked_at": "2026-11-07T09:07:29.108363Z",
         "https": true
-    },
-    {
-        "id": 760157,
-        "ip": "165.99.192.21",
-        "port": 1111,
-        "type": "http",
-        "country": "ID",
-        "checked_at": "2026-11-07T08:59:18.267204Z",
-        "https": false
-    },
-    {
-        "id": 304775,
-        "ip": "168.253.92.93",
-        "port": 10808,
-        "type": "socks5",
-        "country": "ZA",
-        "checked_at": "2026-11-07T08:51:21.384499Z",
-        "https": false
-    },
-    {
-        "id": 764357,
-        "ip": "192.6.154.179",
-        "port": 3128,
-        "type": "http",
-        "country": "US",
-        "checked_at": "2026-11-07T08:47:26.472647Z",
-        "https": true
     }
 ]
