@@ -1,20 +1,11 @@
 [
     {
-        "id": 168779,
-        "ip": "98.170.57.249",
-        "port": 4145,
+        "id": 134980,
+        "ip": "103.239.201.50",
+        "port": 58765,
         "type": "socks5",
-        "country": "US",
-        "checked_at": "2026-11-07T15:12:36.628691Z",
-        "https": true
-    },
-    {
-        "id": 508579,
-        "ip": "89.111.153.21",
-        "port": 3128,
-        "type": "http",
-        "country": "RU",
-        "checked_at": "2026-11-07T15:07:45.132619Z",
+        "country": "PH",
+        "checked_at": "2026-11-07T15:24:32.076080Z",
         "https": false
     },
     {
@@ -23,8 +14,8 @@
         "port": 999,
         "type": "http",
         "country": "EC",
-        "checked_at": "2026-11-07T15:04:01.318064Z",
-        "https": true
+        "checked_at": "2026-11-07T15:18:34.098098Z",
+        "https": false
     },
     {
         "id": 640834,
@@ -32,16 +23,7 @@
         "port": 3128,
         "type": "http",
         "country": "CH",
-        "checked_at": "2026-11-07T15:03:55.043204Z",
-        "https": true
-    },
-    {
-        "id": 604624,
-        "ip": "77.223.107.108",
-        "port": 3128,
-        "type": "http",
-        "country": "RU",
-        "checked_at": "2026-11-07T15:03:54.054276Z",
+        "checked_at": "2026-11-07T15:17:00.671599Z",
         "https": true
     },
     {
@@ -50,8 +32,26 @@
         "port": 1080,
         "type": "socks5",
         "country": "KH",
-        "checked_at": "2026-11-07T15:03:04.241451Z",
+        "checked_at": "2026-11-07T15:16:51.671431Z",
         "https": true
+    },
+    {
+        "id": 506646,
+        "ip": "103.157.58.49",
+        "port": 8080,
+        "type": "http",
+        "country": "ID",
+        "checked_at": "2026-11-07T15:16:25.099910Z",
+        "https": false
+    },
+    {
+        "id": 689555,
+        "ip": "148.244.144.194",
+        "port": 8097,
+        "type": "http",
+        "country": "MX",
+        "checked_at": "2026-11-07T15:16:21.100454Z",
+        "https": false
     },
     {
         "id": 238184,
@@ -59,7 +59,7 @@
         "port": 4145,
         "type": "socks5",
         "country": "US",
-        "checked_at": "2026-11-07T15:01:53.561911Z",
+        "checked_at": "2026-11-07T15:15:47.286516Z",
         "https": true
     }
 ]
