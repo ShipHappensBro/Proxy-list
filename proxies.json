@@ -5,8 +5,35 @@
         "port": 4145,
         "type": "socks5",
         "country": "US",
-        "checked_at": "2026-11-07T14:59:08.906977Z",
+        "checked_at": "2026-11-07T15:12:36.628691Z",
+        "https": true
+    },
+    {
+        "id": 508579,
+        "ip": "89.111.153.21",
+        "port": 3128,
+        "type": "http",
+        "country": "RU",
+        "checked_at": "2026-11-07T15:07:45.132619Z",
         "https": false
+    },
+    {
+        "id": 245165,
+        "ip": "190.12.150.244",
+        "port": 999,
+        "type": "http",
+        "country": "EC",
+        "checked_at": "2026-11-07T15:04:01.318064Z",
+        "https": true
+    },
+    {
+        "id": 640834,
+        "ip": "185.191.239.248",
+        "port": 3128,
+        "type": "http",
+        "country": "CH",
+        "checked_at": "2026-11-07T15:03:55.043204Z",
+        "https": true
     },
     {
         "id": 604624,
@@ -14,8 +41,17 @@
         "port": 3128,
         "type": "http",
         "country": "RU",
-        "checked_at": "2026-11-07T14:54:34.172306Z",
-        "https": false
+        "checked_at": "2026-11-07T15:03:54.054276Z",
+        "https": true
+    },
+    {
+        "id": 635722,
+        "ip": "220.158.232.118",
+        "port": 1080,
+        "type": "socks5",
+        "country": "KH",
+        "checked_at": "2026-11-07T15:03:04.241451Z",
+        "https": true
     },
     {
         "id": 238184,
@@ -23,25 +59,7 @@
         "port": 4145,
         "type": "socks5",
         "country": "US",
-        "checked_at": "2026-11-07T14:53:56.623813Z",
-        "https": true
-    },
-    {
-        "id": 661177,
-        "ip": "67.225.241.201",
-        "port": 3128,
-        "type": "http",
-        "country": "US",
-        "checked_at": "2026-11-07T14:53:21.099205Z",
-        "https": false
-    },
-    {
-        "id": 181410,
-        "ip": "184.178.172.28",
-        "port": 15294,
-        "type": "socks5",
-        "country": "US",
-        "checked_at": "2026-11-07T14:52:56.521857Z",
+        "checked_at": "2026-11-07T15:01:53.561911Z",
         "https": true
     }
 ]
