@@ -1,5 +1,23 @@
 [
     {
+        "id": 733583,
+        "ip": "38.103.250.121",
+        "port": 8080,
+        "type": "http",
+        "country": "ID",
+        "checked_at": "2026-11-08T19:12:54.099256Z",
+        "https": false
+    },
+    {
+        "id": 688855,
+        "ip": "41.78.184.38",
+        "port": 8080,
+        "type": "http",
+        "country": "ZA",
+        "checked_at": "2026-11-08T19:11:07.749386Z",
+        "https": true
+    },
+    {
         "id": 508579,
         "ip": "89.111.153.21",
         "port": 3128,
@@ -34,15 +52,6 @@
         "country": "JP",
         "checked_at": "2026-11-08T18:54:34.094203Z",
         "https": true
-    },
-    {
-        "id": 641595,
-        "ip": "47.80.26.236",
-        "port": 8080,
-        "type": "http",
-        "country": "KR",
-        "checked_at": "2026-11-08T18:54:29.097074Z",
-        "https": false
     },
     {
         "id": 136518,
