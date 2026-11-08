@@ -1,39 +1,12 @@
 [
     {
-        "id": 245165,
-        "ip": "190.12.150.244",
-        "port": 999,
+        "id": 492481,
+        "ip": "43.240.83.70",
+        "port": 8080,
         "type": "http",
-        "country": "EC",
-        "checked_at": "2026-11-08T21:14:38.765998Z",
-        "https": true
-    },
-    {
-        "id": 461930,
-        "ip": "201.144.25.226",
-        "port": 3128,
-        "type": "http",
-        "country": "MX",
-        "checked_at": "2026-11-08T21:13:50.884976Z",
+        "country": "ID",
+        "checked_at": "2026-11-08T21:29:42.883103Z",
         "https": false
-    },
-    {
-        "id": 238184,
-        "ip": "174.75.211.193",
-        "port": 4145,
-        "type": "socks5",
-        "country": "US",
-        "checked_at": "2026-11-08T21:12:06.202736Z",
-        "https": true
-    },
-    {
-        "id": 181410,
-        "ip": "184.178.172.28",
-        "port": 15294,
-        "type": "socks5",
-        "country": "US",
-        "checked_at": "2026-11-08T21:09:06.980570Z",
-        "https": true
     },
     {
         "id": 168779,
@@ -41,7 +14,43 @@
         "port": 4145,
         "type": "socks5",
         "country": "US",
-        "checked_at": "2026-11-08T21:07:26.337132Z",
+        "checked_at": "2026-11-08T21:27:07.649780Z",
+        "https": false
+    },
+    {
+        "id": 181410,
+        "ip": "184.178.172.28",
+        "port": 15294,
+        "type": "socks5",
+        "country": "US",
+        "checked_at": "2026-11-08T21:26:26.388264Z",
         "https": true
+    },
+    {
+        "id": 514045,
+        "ip": "38.210.179.33",
+        "port": 999,
+        "type": "http",
+        "country": "MX",
+        "checked_at": "2026-11-08T21:25:12.881156Z",
+        "https": false
+    },
+    {
+        "id": 245165,
+        "ip": "190.12.150.244",
+        "port": 999,
+        "type": "http",
+        "country": "EC",
+        "checked_at": "2026-11-08T21:23:19.110853Z",
+        "https": false
+    },
+    {
+        "id": 748746,
+        "ip": "202.40.180.145",
+        "port": 38423,
+        "type": "http",
+        "country": "BD",
+        "checked_at": "2026-11-08T21:22:28.223823Z",
+        "https": false
     }
 ]
