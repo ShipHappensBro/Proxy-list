@@ -7,23 +7,5 @@
         "country": "ZA",
         "checked_at": "2026-11-08T19:17:05.207523Z",
         "https": true
-    },
-    {
-        "id": 733583,
-        "ip": "38.103.250.121",
-        "port": 8080,
-        "type": "http",
-        "country": "ID",
-        "checked_at": "2026-11-08T19:12:54.099256Z",
-        "https": false
-    },
-    {
-        "id": 688855,
-        "ip": "41.78.184.38",
-        "port": 8080,
-        "type": "http",
-        "country": "ZA",
-        "checked_at": "2026-11-08T19:11:07.749386Z",
-        "https": true
     }
 ]
