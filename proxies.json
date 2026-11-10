@@ -1,74 +1,29 @@
 [
     {
+        "id": 637760,
+        "ip": "167.250.137.129",
+        "port": 1080,
+        "type": "socks4",
+        "country": "BR",
+        "checked_at": "2026-11-10T11:58:34.988135Z",
+        "https": true
+    },
+    {
         "id": 461930,
         "ip": "201.144.25.226",
         "port": 3128,
         "type": "http",
         "country": "MX",
-        "checked_at": "2026-11-10T11:39:53.881011Z",
+        "checked_at": "2026-11-10T11:52:23.355637Z",
         "https": false
     },
     {
-        "id": 641293,
-        "ip": "190.121.151.16",
-        "port": 999,
-        "type": "http",
-        "country": "CO",
-        "checked_at": "2026-11-10T11:37:53.671184Z",
-        "https": true
-    },
-    {
-        "id": 238184,
-        "ip": "174.75.211.193",
-        "port": 4145,
-        "type": "socks4",
-        "country": "US",
-        "checked_at": "2026-11-10T11:37:39.113185Z",
-        "https": true
-    },
-    {
-        "id": 661207,
-        "ip": "157.20.239.237",
-        "port": 9090,
+        "id": 603019,
+        "ip": "103.171.240.170",
+        "port": 8090,
         "type": "http",
         "country": "ID",
-        "checked_at": "2026-11-10T11:36:31.883598Z",
-        "https": false
-    },
-    {
-        "id": 726417,
-        "ip": "125.25.167.132",
-        "port": 80,
-        "type": "http",
-        "country": "TH",
-        "checked_at": "2026-11-10T11:36:18.391917Z",
-        "https": false
-    },
-    {
-        "id": 506646,
-        "ip": "103.157.58.49",
-        "port": 8080,
-        "type": "http",
-        "country": "ID",
-        "checked_at": "2026-11-10T11:35:15.881821Z",
-        "https": false
-    },
-    {
-        "id": 181410,
-        "ip": "184.178.172.28",
-        "port": 15294,
-        "type": "socks4",
-        "country": "US",
-        "checked_at": "2026-11-10T11:34:50.331393Z",
-        "https": true
-    },
-    {
-        "id": 589675,
-        "ip": "66.186.199.33",
-        "port": 8080,
-        "type": "http",
-        "country": "AL",
-        "checked_at": "2026-11-10T11:33:49.797108Z",
+        "checked_at": "2026-11-10T11:49:14.880610Z",
         "https": false
     }
 ]
