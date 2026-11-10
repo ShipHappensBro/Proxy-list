@@ -1,11 +1,11 @@
 [
     {
-        "id": 763172,
-        "ip": "129.146.7.166",
-        "port": 80,
-        "type": "http",
+        "id": 212900,
+        "ip": "199.116.114.11",
+        "port": 4145,
+        "type": "socks4",
         "country": "US",
-        "checked_at": "2026-11-10T21:28:39.633975Z",
+        "checked_at": "2026-11-10T21:40:56.029807Z",
         "https": true
     },
     {
@@ -14,34 +14,70 @@
         "port": 3128,
         "type": "http",
         "country": "RU",
-        "checked_at": "2026-11-10T21:28:37.196194Z",
+        "checked_at": "2026-11-10T21:40:36.035345Z",
         "https": true
     },
     {
-        "id": 205172,
-        "ip": "59.124.62.9",
-        "port": 3128,
+        "id": 245165,
+        "ip": "190.12.150.244",
+        "port": 999,
         "type": "http",
-        "country": "TW",
-        "checked_at": "2026-11-10T21:23:39.882368Z",
+        "country": "EC",
+        "checked_at": "2026-11-10T21:40:14.814428Z",
+        "https": true
+    },
+    {
+        "id": 763172,
+        "ip": "129.146.7.166",
+        "port": 80,
+        "type": "http",
+        "country": "US",
+        "checked_at": "2026-11-10T21:39:53.172098Z",
+        "https": true
+    },
+    {
+        "id": 504919,
+        "ip": "160.25.223.14",
+        "port": 8181,
+        "type": "http",
+        "country": "ID",
+        "checked_at": "2026-11-10T21:38:49.883407Z",
         "https": false
     },
     {
-        "id": 265385,
-        "ip": "177.247.249.5",
-        "port": 3128,
+        "id": 194781,
+        "ip": "83.229.73.113",
+        "port": 13554,
         "type": "http",
-        "country": "MX",
-        "checked_at": "2026-11-10T21:23:20.114218Z",
+        "country": "IL",
+        "checked_at": "2026-11-10T21:36:12.460807Z",
+        "https": false
+    },
+    {
+        "id": 506646,
+        "ip": "103.157.58.49",
+        "port": 8080,
+        "type": "http",
+        "country": "ID",
+        "checked_at": "2026-11-10T21:36:00.833713Z",
         "https": true
     },
     {
-        "id": 763564,
-        "ip": "1.20.101.15",
-        "port": 80,
-        "type": "http",
-        "country": "TH",
-        "checked_at": "2026-11-10T21:17:27.784028Z",
+        "id": 181410,
+        "ip": "184.178.172.28",
+        "port": 15294,
+        "type": "socks4",
+        "country": "US",
+        "checked_at": "2026-11-10T21:35:39.351405Z",
         "https": true
+    },
+    {
+        "id": 681912,
+        "ip": "176.215.179.44",
+        "port": 3128,
+        "type": "http",
+        "country": "RU",
+        "checked_at": "2026-11-10T21:35:16.883044Z",
+        "https": false
     }
 ]
