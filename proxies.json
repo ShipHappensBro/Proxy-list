@@ -1,1 +1,56 @@
-[]
+[
+    {
+        "id": 604624,
+        "ip": "77.223.107.108",
+        "port": 3128,
+        "type": "http",
+        "country": "RU",
+        "checked_at": "2026-11-10T17:38:37.884462Z",
+        "https": false
+    },
+    {
+        "id": 178744,
+        "ip": "109.106.196.250",
+        "port": 4145,
+        "type": "socks4",
+        "country": "RU",
+        "checked_at": "2026-11-10T17:35:41.775681Z",
+        "https": false
+    },
+    {
+        "id": 212900,
+        "ip": "199.116.114.11",
+        "port": 4145,
+        "type": "socks4",
+        "country": "US",
+        "checked_at": "2026-11-10T17:35:36.604656Z",
+        "https": true
+    },
+    {
+        "id": 507936,
+        "ip": "84.247.171.137",
+        "port": 3128,
+        "type": "http",
+        "country": "FR",
+        "checked_at": "2026-11-10T17:33:11.880636Z",
+        "https": false
+    },
+    {
+        "id": 641614,
+        "ip": "187.188.169.140",
+        "port": 999,
+        "type": "http",
+        "country": "MX",
+        "checked_at": "2026-11-10T17:32:44.933501Z",
+        "https": false
+    },
+    {
+        "id": 506646,
+        "ip": "103.157.58.49",
+        "port": 8080,
+        "type": "http",
+        "country": "ID",
+        "checked_at": "2026-11-10T17:31:22.882336Z",
+        "https": false
+    }
+]
