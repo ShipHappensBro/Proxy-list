@@ -1,11 +1,38 @@
 [
     {
-        "id": 495949,
-        "ip": "190.188.131.87",
-        "port": 8080,
+        "id": 661177,
+        "ip": "67.225.241.201",
+        "port": 3128,
         "type": "http",
-        "country": "AR",
-        "checked_at": "2026-11-10T12:29:55.881306Z",
+        "country": "US",
+        "checked_at": "2026-11-10T12:43:49.622149Z",
+        "https": true
+    },
+    {
+        "id": 603019,
+        "ip": "103.171.240.170",
+        "port": 8090,
+        "type": "http",
+        "country": "ID",
+        "checked_at": "2026-11-10T12:43:40.882106Z",
+        "https": false
+    },
+    {
+        "id": 238184,
+        "ip": "174.75.211.193",
+        "port": 4145,
+        "type": "socks4",
+        "country": "US",
+        "checked_at": "2026-11-10T12:33:20.145374Z",
+        "https": true
+    },
+    {
+        "id": 635722,
+        "ip": "220.158.232.118",
+        "port": 1080,
+        "type": "socks5",
+        "country": "KH",
+        "checked_at": "2026-11-10T12:32:09.253500Z",
         "https": false
     }
 ]
