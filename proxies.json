@@ -1,1 +1,29 @@
-[]
+[
+    {
+        "id": 212900,
+        "ip": "199.116.114.11",
+        "port": 4145,
+        "type": "socks4",
+        "country": "US",
+        "checked_at": "2026-11-10T15:59:44.189674Z",
+        "https": true
+    },
+    {
+        "id": 604624,
+        "ip": "77.223.107.108",
+        "port": 3128,
+        "type": "http",
+        "country": "RU",
+        "checked_at": "2026-11-10T15:57:51.345212Z",
+        "https": true
+    },
+    {
+        "id": 503814,
+        "ip": "103.162.54.170",
+        "port": 8080,
+        "type": "http",
+        "country": "ID",
+        "checked_at": "2026-11-10T15:56:54.880319Z",
+        "https": false
+    }
+]
