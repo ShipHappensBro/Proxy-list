@@ -1,20 +1,20 @@
 [
     {
-        "id": 635722,
-        "ip": "220.158.232.118",
-        "port": 1080,
-        "type": "socks5",
-        "country": "KH",
-        "checked_at": "2026-11-10T20:28:22.031450Z",
+        "id": 194781,
+        "ip": "83.229.73.113",
+        "port": 13554,
+        "type": "http",
+        "country": "IL",
+        "checked_at": "2026-11-10T20:43:37.020295Z",
         "https": false
     },
     {
-        "id": 238184,
-        "ip": "174.75.211.193",
-        "port": 4145,
-        "type": "socks4",
-        "country": "US",
-        "checked_at": "2026-11-10T20:19:58.792134Z",
-        "https": false
+        "id": 637244,
+        "ip": "140.238.32.108",
+        "port": 3128,
+        "type": "http",
+        "country": "JP",
+        "checked_at": "2026-11-10T20:33:10.132640Z",
+        "https": true
     }
 ]
