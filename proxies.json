@@ -5,7 +5,16 @@
         "port": 80,
         "type": "http",
         "country": "US",
-        "checked_at": "2026-11-11T18:14:26.313945Z",
+        "checked_at": "2026-11-11T18:29:45.686073Z",
+        "https": true
+    },
+    {
+        "id": 709230,
+        "ip": "188.233.187.89",
+        "port": 1080,
+        "type": "socks5",
+        "country": "RU",
+        "checked_at": "2026-11-11T18:28:30.798443Z",
         "https": true
     }
 ]
