@@ -1,47 +1,47 @@
 [
     {
+        "id": 234517,
+        "ip": "8.219.97.248",
+        "port": 80,
+        "type": "http",
+        "country": "SG",
+        "checked_at": "2026-11-10T23:57:16.567822Z",
+        "https": true
+    },
+    {
+        "id": 636909,
+        "ip": "103.153.247.110",
+        "port": 8080,
+        "type": "http",
+        "country": "ID",
+        "checked_at": "2026-11-10T23:51:53.882094Z",
+        "https": false
+    },
+    {
+        "id": 212900,
+        "ip": "199.116.114.11",
+        "port": 4145,
+        "type": "socks4",
+        "country": "US",
+        "checked_at": "2026-11-10T23:51:53.158760Z",
+        "https": true
+    },
+    {
+        "id": 178744,
+        "ip": "109.106.196.250",
+        "port": 4145,
+        "type": "socks4",
+        "country": "RU",
+        "checked_at": "2026-11-10T23:51:39.667112Z",
+        "https": false
+    },
+    {
         "id": 245165,
         "ip": "190.12.150.244",
         "port": 999,
         "type": "http",
         "country": "EC",
-        "checked_at": "2026-11-10T23:41:20.054733Z",
-        "https": false
-    },
-    {
-        "id": 238184,
-        "ip": "174.75.211.193",
-        "port": 4145,
-        "type": "socks4",
-        "country": "US",
-        "checked_at": "2026-11-10T23:40:17.534303Z",
-        "https": true
-    },
-    {
-        "id": 426544,
-        "ip": "103.181.255.69",
-        "port": 1111,
-        "type": "http",
-        "country": "ID",
-        "checked_at": "2026-11-10T23:39:18.881359Z",
-        "https": false
-    },
-    {
-        "id": 661177,
-        "ip": "67.225.241.201",
-        "port": 3128,
-        "type": "http",
-        "country": "US",
-        "checked_at": "2026-11-10T23:38:12.600913Z",
-        "https": true
-    },
-    {
-        "id": 181410,
-        "ip": "184.178.172.28",
-        "port": 15294,
-        "type": "socks4",
-        "country": "US",
-        "checked_at": "2026-11-10T23:36:42.071573Z",
+        "checked_at": "2026-11-10T23:50:52.320585Z",
         "https": true
     }
 ]
