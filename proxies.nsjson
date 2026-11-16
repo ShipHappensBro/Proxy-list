@@ -1,3 +1,8 @@
+{"id": 754541, "ip": "190.71.72.85", "port": 2525, "type": "http", "country": "CO", "checked_at": "2026-11-16T00:40:46.050481Z", "https": true}
+{"id": 635237, "ip": "185.184.54.90", "port": 3128, "type": "http", "country": "RU", "checked_at": "2026-11-16T00:35:26.700710Z", "https": true}
+{"id": 706681, "ip": "107.173.41.13", "port": 3128, "type": "http", "country": "US", "checked_at": "2026-11-16T00:32:43.176196Z", "https": false}
+{"id": 767054, "ip": "91.107.186.23", "port": 1080, "type": "socks4", "country": "DE", "checked_at": "2026-11-16T00:32:18.356675Z", "https": false}
+{"id": 165209, "ip": "185.79.243.153", "port": 38431, "type": "socks4", "country": "PL", "checked_at": "2026-11-16T00:32:09.271945Z", "https": false}
 {"id": 178425, "ip": "196.0.111.186", "port": 46048, "type": "socks4", "country": "UG", "checked_at": "2026-11-16T00:29:20.208196Z", "https": false}
 {"id": 730917, "ip": "181.205.207.66", "port": 1080, "type": "socks4", "country": "CO", "checked_at": "2026-11-16T00:28:21.400368Z", "https": true}
 {"id": 759540, "ip": "45.65.226.169", "port": 999, "type": "http", "country": "AR", "checked_at": "2026-11-16T00:24:42.410401Z", "https": true}
@@ -22,6 +27,3 @@
 {"id": 248405, "ip": "190.220.1.173", "port": 35376, "type": "socks4", "country": "AR", "checked_at": "2026-11-15T23:50:40.711996Z", "https": true}
 {"id": 152731, "ip": "47.176.213.210", "port": 39593, "type": "socks4", "country": "US", "checked_at": "2026-11-15T23:49:58.474184Z", "https": true}
 {"id": 234328, "ip": "103.146.185.5", "port": 1083, "type": "socks4", "country": "ID", "checked_at": "2026-11-15T23:49:01.873298Z", "https": false}
-{"id": 232989, "ip": "190.123.83.137", "port": 999, "type": "http", "country": "AR", "checked_at": "2026-11-15T23:43:57.888874Z", "https": true}
-{"id": 638477, "ip": "176.111.37.5", "port": 39811, "type": "http", "country": "HK", "checked_at": "2026-11-15T23:31:23.217060Z", "https": true}
-{"id": 228599, "ip": "47.243.92.199", "port": 3128, "type": "http", "country": "HK", "checked_at": "2026-11-15T23:30:31.777996Z", "https": true}
