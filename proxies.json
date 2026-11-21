@@ -1,56 +1,47 @@
 [
     {
-        "id": 687936,
-        "ip": "185.166.27.208",
-        "port": 2020,
-        "type": "http",
-        "country": "IQ",
-        "checked_at": "2026-11-21T11:19:21.869298Z",
-        "https": true
-    },
-    {
-        "id": 682979,
-        "ip": "154.40.137.181",
-        "port": 8888,
-        "type": "http",
-        "country": "US",
-        "checked_at": "2026-11-21T11:18:01.432134Z",
-        "https": false
-    },
-    {
-        "id": 672644,
-        "ip": "147.161.246.34",
-        "port": 8800,
-        "type": "http",
-        "country": "CH",
-        "checked_at": "2026-11-21T11:17:46.242390Z",
-        "https": true
-    },
-    {
-        "id": 640116,
-        "ip": "110.172.28.217",
-        "port": 3128,
+        "id": 143235,
+        "ip": "14.170.154.193",
+        "port": 19132,
         "type": "http",
         "country": "VN",
-        "checked_at": "2026-11-21T11:16:39.433775Z",
+        "checked_at": "2026-11-21T12:42:53.432796Z",
         "https": false
     },
     {
-        "id": 186144,
-        "ip": "14.29.168.215",
-        "port": 1080,
+        "id": 702715,
+        "ip": "154.19.39.111",
+        "port": 8080,
         "type": "http",
-        "country": "CN",
-        "checked_at": "2026-11-21T11:16:24.633427Z",
+        "country": "ID",
+        "checked_at": "2026-11-21T12:38:39.873263Z",
         "https": true
     },
     {
-        "id": 671344,
-        "ip": "57.128.249.250",
-        "port": 9052,
-        "type": "socks5",
-        "country": "PL",
-        "checked_at": "2026-11-21T11:15:40.480530Z",
+        "id": 655700,
+        "ip": "92.5.8.178",
+        "port": 3128,
+        "type": "http",
+        "country": "DE",
+        "checked_at": "2026-11-21T12:38:29.432311Z",
         "https": false
+    },
+    {
+        "id": 697483,
+        "ip": "144.79.37.44",
+        "port": 8080,
+        "type": "http",
+        "country": "ID",
+        "checked_at": "2026-11-21T12:20:42.434034Z",
+        "https": false
+    },
+    {
+        "id": 755338,
+        "ip": "34.47.50.163",
+        "port": 443,
+        "type": "http",
+        "country": "CA",
+        "checked_at": "2026-11-21T12:15:23.727403Z",
+        "https": true
     }
 ]
