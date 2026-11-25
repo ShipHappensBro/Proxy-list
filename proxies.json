@@ -1,5 +1,149 @@
 [
     {
+        "id": 777781,
+        "ip": "85.143.71.188",
+        "port": 10808,
+        "type": "http",
+        "country": "RU",
+        "checked_at": "2026-11-25T06:13:53.926998Z",
+        "https": true
+    },
+    {
+        "id": 777079,
+        "ip": "20.98.234.24",
+        "port": 8080,
+        "type": "http",
+        "country": "US",
+        "checked_at": "2026-11-25T06:12:45.830937Z",
+        "https": true
+    },
+    {
+        "id": 676052,
+        "ip": "190.89.4.182",
+        "port": 1080,
+        "type": "socks4",
+        "country": "BR",
+        "checked_at": "2026-11-25T06:11:07.787271Z",
+        "https": false
+    },
+    {
+        "id": 757024,
+        "ip": "104.168.134.178",
+        "port": 3128,
+        "type": "http",
+        "country": "US",
+        "checked_at": "2026-11-25T06:09:58.402778Z",
+        "https": true
+    },
+    {
+        "id": 638116,
+        "ip": "209.182.234.151",
+        "port": 40000,
+        "type": "http",
+        "country": "JP",
+        "checked_at": "2026-11-25T06:09:27.672722Z",
+        "https": true
+    },
+    {
+        "id": 739520,
+        "ip": "201.4.65.103",
+        "port": 8080,
+        "type": "http",
+        "country": "PL",
+        "checked_at": "2026-11-25T06:09:03.076273Z",
+        "https": false
+    },
+    {
+        "id": 653229,
+        "ip": "72.255.29.169",
+        "port": 1981,
+        "type": "http",
+        "country": "PK",
+        "checked_at": "2026-11-25T06:08:01.076359Z",
+        "https": false
+    },
+    {
+        "id": 181410,
+        "ip": "184.178.172.28",
+        "port": 15294,
+        "type": "socks5",
+        "country": "US",
+        "checked_at": "2026-11-25T06:06:52.262909Z",
+        "https": true
+    },
+    {
+        "id": 731849,
+        "ip": "201.7.31.45",
+        "port": 8080,
+        "type": "http",
+        "country": "PL",
+        "checked_at": "2026-11-25T06:03:38.076124Z",
+        "https": false
+    },
+    {
+        "id": 686895,
+        "ip": "202.47.185.35",
+        "port": 8080,
+        "type": "http",
+        "country": "ID",
+        "checked_at": "2026-11-25T06:03:14.075217Z",
+        "https": false
+    },
+    {
+        "id": 656564,
+        "ip": "188.164.218.209",
+        "port": 8080,
+        "type": "http",
+        "country": "AL",
+        "checked_at": "2026-11-25T06:03:00.076342Z",
+        "https": false
+    },
+    {
+        "id": 669630,
+        "ip": "196.216.132.35",
+        "port": 8080,
+        "type": "http",
+        "country": "ZA",
+        "checked_at": "2026-11-25T06:02:38.075647Z",
+        "https": false
+    },
+    {
+        "id": 197942,
+        "ip": "103.244.107.106",
+        "port": 1080,
+        "type": "socks4",
+        "country": "ID",
+        "checked_at": "2026-11-25T06:02:26.971319Z",
+        "https": true
+    },
+    {
+        "id": 670837,
+        "ip": "103.165.138.173",
+        "port": 8181,
+        "type": "http",
+        "country": "ID",
+        "checked_at": "2026-11-25T06:02:17.315385Z",
+        "https": true
+    },
+    {
+        "id": 688373,
+        "ip": "103.165.229.173",
+        "port": 8080,
+        "type": "http",
+        "country": "ID",
+        "checked_at": "2026-11-25T06:01:47.076177Z",
+        "https": false
+    },
+    {
+        "id": 166933,
+        "ip": "218.26.101.226",
+        "port": 53813,
+        "type": "socks4",
+        "country": "CN",
+        "checked_at": "2026-11-25T06:00:18.952592Z",
+        "https": false
+    },
+    {
         "id": 635188,
         "ip": "220.241.20.97",
         "port": 3129,
@@ -396,15 +540,6 @@
         "https": true
     },
     {
-        "id": 169382,
-        "ip": "217.160.98.224",
-        "port": 3128,
-        "type": "http",
-        "country": "FR",
-        "checked_at": "2026-11-25T05:27:34.437682Z",
-        "https": true
-    },
-    {
         "id": 647499,
         "ip": "34.169.107.92",
         "port": 443,
@@ -564,123 +699,6 @@
         "type": "http",
         "country": "BD",
         "checked_at": "2026-11-25T05:15:04.075779Z",
-        "https": false
-    },
-    {
-        "id": 689371,
-        "ip": "154.59.56.74",
-        "port": 999,
-        "type": "http",
-        "country": "VE",
-        "checked_at": "2026-11-25T05:14:19.294973Z",
-        "https": true
-    },
-    {
-        "id": 637276,
-        "ip": "179.189.246.129",
-        "port": 5432,
-        "type": "socks4",
-        "country": "BR",
-        "checked_at": "2026-11-25T05:13:07.087667Z",
-        "https": false
-    },
-    {
-        "id": 747796,
-        "ip": "103.157.79.17",
-        "port": 8080,
-        "type": "http",
-        "country": "ID",
-        "checked_at": "2026-11-25T05:12:29.551837Z",
-        "https": true
-    },
-    {
-        "id": 274425,
-        "ip": "36.152.150.242",
-        "port": 8081,
-        "type": "http",
-        "country": "CN",
-        "checked_at": "2026-11-25T05:11:33.565621Z",
-        "https": true
-    },
-    {
-        "id": 678276,
-        "ip": "103.158.210.80",
-        "port": 8082,
-        "type": "http",
-        "country": "ID",
-        "checked_at": "2026-11-25T05:10:26.727816Z",
-        "https": true
-    },
-    {
-        "id": 779448,
-        "ip": "27.72.80.145",
-        "port": 1080,
-        "type": "socks4",
-        "country": "VN",
-        "checked_at": "2026-11-25T05:09:52.341092Z",
-        "https": true
-    },
-    {
-        "id": 164839,
-        "ip": "104.200.152.30",
-        "port": 4145,
-        "type": "socks4",
-        "country": "US",
-        "checked_at": "2026-11-25T05:09:49.232736Z",
-        "https": true
-    },
-    {
-        "id": 726370,
-        "ip": "163.61.245.4",
-        "port": 8080,
-        "type": "http",
-        "country": "ID",
-        "checked_at": "2026-11-25T05:08:45.077354Z",
-        "https": false
-    },
-    {
-        "id": 777033,
-        "ip": "59.11.209.162",
-        "port": 1080,
-        "type": "socks4",
-        "country": "KR",
-        "checked_at": "2026-11-25T05:08:26.339345Z",
-        "https": true
-    },
-    {
-        "id": 748926,
-        "ip": "45.175.137.250",
-        "port": 999,
-        "type": "http",
-        "country": "CL",
-        "checked_at": "2026-11-25T05:03:45.937081Z",
-        "https": true
-    },
-    {
-        "id": 775140,
-        "ip": "110.34.2.225",
-        "port": 1080,
-        "type": "socks4",
-        "country": "NP",
-        "checked_at": "2026-11-25T05:03:01.346662Z",
-        "https": false
-    },
-    {
-        "id": 763291,
-        "ip": "80.225.231.172",
-        "port": 9090,
-        "type": "http",
-        "country": "IN",
-        "checked_at": "2026-11-25T05:02:46.454346Z",
-        "https": true
-    },
-    {
-        "id": 472631,
-        "ip": "103.15.214.20",
-        "port": 8080,
-        "type": "http",
-        "country": "ID",
-        "checked_at": "2026-11-25T05:00:39.077487Z",
         "https": false
     }
 ]
